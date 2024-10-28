@@ -1,0 +1,21 @@
+[0.592s] Invoking command in '/home/harshit/urdf_rviz/src/urdf_testing': PYTHONPATH=/home/harshit/urdf_rviz/build/urdf_testing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harshit/urdf_rviz/install/urdf_testing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/urdf_testing build --build-base /home/harshit/urdf_rviz/build/urdf_testing/build install --record /home/harshit/urdf_rviz/build/urdf_testing/install.log --single-version-externally-managed install_data
+[0.753s] running egg_info
+[0.754s] writing ../../build/urdf_testing/urdf_testing.egg-info/PKG-INFO
+[0.754s] writing dependency_links to ../../build/urdf_testing/urdf_testing.egg-info/dependency_links.txt
+[0.754s] writing entry points to ../../build/urdf_testing/urdf_testing.egg-info/entry_points.txt
+[0.754s] writing requirements to ../../build/urdf_testing/urdf_testing.egg-info/requires.txt
+[0.754s] writing top-level names to ../../build/urdf_testing/urdf_testing.egg-info/top_level.txt
+[0.756s] reading manifest file '../../build/urdf_testing/urdf_testing.egg-info/SOURCES.txt'
+[0.756s] writing manifest file '../../build/urdf_testing/urdf_testing.egg-info/SOURCES.txt'
+[0.756s] running build
+[0.756s] running build_py
+[0.757s] running install
+[0.757s] running install_lib
+[0.758s] running install_data
+[0.758s] running install_egg_info
+[0.759s] removing '/home/harshit/urdf_rviz/install/urdf_testing/lib/python3.10/site-packages/urdf_testing-0.0.0-py3.10.egg-info' (and everything under it)
+[0.759s] Copying ../../build/urdf_testing/urdf_testing.egg-info to /home/harshit/urdf_rviz/install/urdf_testing/lib/python3.10/site-packages/urdf_testing-0.0.0-py3.10.egg-info
+[0.760s] running install_scripts
+[0.774s] Installing launch script to /home/harshit/urdf_rviz/install/urdf_testing/lib/urdf_testing
+[0.775s] writing list of installed files to '/home/harshit/urdf_rviz/build/urdf_testing/install.log'
+[0.806s] Invoked command in '/home/harshit/urdf_rviz/src/urdf_testing' returned '0': PYTHONPATH=/home/harshit/urdf_rviz/build/urdf_testing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/harshit/urdf_rviz/install/urdf_testing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/urdf_testing build --build-base /home/harshit/urdf_rviz/build/urdf_testing/build install --record /home/harshit/urdf_rviz/build/urdf_testing/install.log --single-version-externally-managed install_data
