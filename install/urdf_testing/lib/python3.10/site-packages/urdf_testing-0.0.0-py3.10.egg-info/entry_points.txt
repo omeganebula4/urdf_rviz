@@ -1,0 +1,3 @@
+[console_scripts]
+launch = urdf_testing.launch.py:main
+
