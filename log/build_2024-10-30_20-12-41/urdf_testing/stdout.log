@@ -1,0 +1,21 @@
+running egg_info
+writing ../../build/urdf_testing/urdf_testing.egg-info/PKG-INFO
+writing dependency_links to ../../build/urdf_testing/urdf_testing.egg-info/dependency_links.txt
+writing entry points to ../../build/urdf_testing/urdf_testing.egg-info/entry_points.txt
+writing requirements to ../../build/urdf_testing/urdf_testing.egg-info/requires.txt
+writing top-level names to ../../build/urdf_testing/urdf_testing.egg-info/top_level.txt
+reading manifest file '../../build/urdf_testing/urdf_testing.egg-info/SOURCES.txt'
+writing manifest file '../../build/urdf_testing/urdf_testing.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+copying urdf_files/first_include.xacro -> /home/harshit/urdf_rviz/install/urdf_testing/share/urdf_testing/urdf_files
+copying urdf_files/first_robot.urdf.xacro -> /home/harshit/urdf_rviz/install/urdf_testing/share/urdf_testing/urdf_files
+running install_egg_info
+removing '/home/harshit/urdf_rviz/install/urdf_testing/lib/python3.10/site-packages/urdf_testing-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/urdf_testing/urdf_testing.egg-info to /home/harshit/urdf_rviz/install/urdf_testing/lib/python3.10/site-packages/urdf_testing-0.0.0-py3.10.egg-info
+running install_scripts
+Installing launch script to /home/harshit/urdf_rviz/install/urdf_testing/lib/urdf_testing
+writing list of installed files to '/home/harshit/urdf_rviz/build/urdf_testing/install.log'
